@@ -2,11 +2,12 @@
 import * as React from 'react';
 import posterImage from './images/poster.png';
 import Title from './Title';
-import AboutDescription from './AboutDescription';
+import TextDescription from './TextDescription';
+import PanelSection from './PanelSection';
 
 function App(): React.Node {
   const rootStyle = {
-    height: '100vh',
+    minHeight: '100vh',
     background: 'black',
     border: 'solid cyan',
   }
@@ -135,7 +136,14 @@ function Content(): React.Node {
     <div style={outerStyle}>
       <div style={innerStyle}>
         <Title text='About' />
-        <AboutDescription />
+        <TextDescription
+          paddingLeft={60}
+          texts={[
+            '1. jweifejwfewijo',
+            '2. wjeiofjweoifjowiefiowe'
+          ]}
+        />
+        <PanelSection />
       </div>
     </div>
   );
