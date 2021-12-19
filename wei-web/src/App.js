@@ -1,9 +1,9 @@
 //@flow
 import * as React from 'react';
 import posterImage from './images/poster.png';
-import Title from './Title';
-import TextDescription from './TextDescription';
+import AboutSection from './AboutSection';
 import PanelSection from './PanelSection';
+import MediaSection from './MediaSection';
 
 function App(): React.Node {
   const rootStyle = {
@@ -135,15 +135,9 @@ function Content(): React.Node {
   return (
     <div style={outerStyle}>
       <div style={innerStyle}>
-        <Title text='About' />
-        <TextDescription
-          paddingLeft={60}
-          texts={[
-            '1. jweifejwfewijo',
-            '2. wjeiofjweoifjowiefiowe'
-          ]}
-        />
+        <AboutSection />
         <PanelSection />
+        <MediaSection />
       </div>
     </div>
   );
