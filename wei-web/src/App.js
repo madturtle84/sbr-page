@@ -1,19 +1,20 @@
 //@flow
 import * as React from 'react';
 import posterImage from './images/poster.png';
-import './App.css';
+import Title from './Title';
+import AboutDescription from './AboutDescription';
 
 function App(): React.Node {
   const rootStyle = {
     height: '100vh',
     background: 'black',
-    //display: 'flex',
     border: 'solid cyan',
   }
   return (
     <div id='app' style={rootStyle}>
       <Header />
       <PosterSection />
+      <Content />
     </div>
   );
 }
@@ -115,6 +116,28 @@ function PosterSectionButton(): React.Node {
   }
   return (
     <button style={style} onClick={onClick}>Get Newsletter</button>
+  );
+}
+
+function Content(): React.Node {
+  const outerStyle = {
+    display: 'flex',
+    border: 'solid yellow',
+    justifyContent: 'center',
+  };
+  const innerStyle = {
+    display: 'flex',
+    width: '80%',
+    border: 'solid purple',
+    flexDirection: 'column',
+  };
+  return (
+    <div style={outerStyle}>
+      <div style={innerStyle}>
+        <Title text='About' />
+        <AboutDescription />
+      </div>
+    </div>
   );
 }
 
