@@ -19,7 +19,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint .",
-    "flow": "flow"
+    "flow": "flow",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +44,7 @@
   "devDependencies": {
     "eslint": "^8.5.0",
     "eslint-plugin-react": "^7.27.1"
-  }
+  },
+  "homepage": "http://madturtle84.github.io/wei-web"
+
 }
