@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sbr-page/static/css/main.bd0c2042.css",
-    "main.js": "/sbr-page/static/js/main.3eafcd06.js",
+    "main.js": "/sbr-page/static/js/main.f0f141c5.js",
     "static/js/787.288014ff.chunk.js": "/sbr-page/static/js/787.288014ff.chunk.js",
     "static/media/TaipeiSansTCBeta-Regular.ttf": "/sbr-page/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
     "static/media/poster.png": "/sbr-page/static/media/poster.6f2e78da1850595dbbd0.png",
@@ -12,11 +12,11 @@
     "static/media/carousel_2.png": "/sbr-page/static/media/carousel_2.7afdcf879ee0ca19f603.png",
     "index.html": "/sbr-page/index.html",
     "main.bd0c2042.css.map": "/sbr-page/static/css/main.bd0c2042.css.map",
-    "main.3eafcd06.js.map": "/sbr-page/static/js/main.3eafcd06.js.map",
+    "main.f0f141c5.js.map": "/sbr-page/static/js/main.f0f141c5.js.map",
     "787.288014ff.chunk.js.map": "/sbr-page/static/js/787.288014ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd0c2042.css",
-    "static/js/main.3eafcd06.js"
+    "static/js/main.f0f141c5.js"
   ]
 }
