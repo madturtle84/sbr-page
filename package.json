@@ -1,4 +1,4 @@
-{
+  {
   "name": "sbr-page",
   "version": "0.1.0",
   "private": true,
@@ -46,5 +46,5 @@
     "eslint-plugin-react": "^7.27.1",
     "gh-pages": "^3.2.3"
   },
-  "homepage": "http://madturtle84.github.io/sbr-page"
+  "homepage": "http://www.artzerogames.com/"
 }
