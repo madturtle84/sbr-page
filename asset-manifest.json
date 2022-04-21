@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wei-web/static/css/main.5508f8a0.css",
-    "main.js": "/wei-web/static/js/main.93cb0d55.js",
-    "static/js/787.bf158fc1.chunk.js": "/wei-web/static/js/787.bf158fc1.chunk.js",
-    "static/media/TaipeiSansTCBeta-Regular.ttf": "/wei-web/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
-    "static/media/poster.png": "/wei-web/static/media/poster.6f2e78da1850595dbbd0.png",
-    "static/media/carousel_3.png": "/wei-web/static/media/carousel_3.9b9651c14eb67dbabc08.png",
-    "static/media/carousel_4.png": "/wei-web/static/media/carousel_4.5413d5cc676f75e6c99b.png",
-    "static/media/panel_content.png": "/wei-web/static/media/panel_content.eaecf068cea93d8c2151.png",
-    "static/media/carousel_1.png": "/wei-web/static/media/carousel_1.0c610ac7ae0227aaa8ec.png",
-    "static/media/carousel_2.png": "/wei-web/static/media/carousel_2.7afdcf879ee0ca19f603.png",
-    "index.html": "/wei-web/index.html",
-    "main.5508f8a0.css.map": "/wei-web/static/css/main.5508f8a0.css.map",
-    "main.93cb0d55.js.map": "/wei-web/static/js/main.93cb0d55.js.map",
-    "787.bf158fc1.chunk.js.map": "/wei-web/static/js/787.bf158fc1.chunk.js.map"
+    "main.css": "/sbr-page/static/css/main.bd0c2042.css",
+    "main.js": "/sbr-page/static/js/main.3eafcd06.js",
+    "static/js/787.288014ff.chunk.js": "/sbr-page/static/js/787.288014ff.chunk.js",
+    "static/media/TaipeiSansTCBeta-Regular.ttf": "/sbr-page/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
+    "static/media/poster.png": "/sbr-page/static/media/poster.6f2e78da1850595dbbd0.png",
+    "static/media/carousel_3.png": "/sbr-page/static/media/carousel_3.9b9651c14eb67dbabc08.png",
+    "static/media/carousel_4.png": "/sbr-page/static/media/carousel_4.5413d5cc676f75e6c99b.png",
+    "static/media/panel_content.png": "/sbr-page/static/media/panel_content.eaecf068cea93d8c2151.png",
+    "static/media/carousel_1.png": "/sbr-page/static/media/carousel_1.0c610ac7ae0227aaa8ec.png",
+    "static/media/carousel_2.png": "/sbr-page/static/media/carousel_2.7afdcf879ee0ca19f603.png",
+    "index.html": "/sbr-page/index.html",
+    "main.bd0c2042.css.map": "/sbr-page/static/css/main.bd0c2042.css.map",
+    "main.3eafcd06.js.map": "/sbr-page/static/js/main.3eafcd06.js.map",
+    "787.288014ff.chunk.js.map": "/sbr-page/static/js/787.288014ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5508f8a0.css",
-    "static/js/main.93cb0d55.js"
+    "static/css/main.bd0c2042.css",
+    "static/js/main.3eafcd06.js"
   ]
 }
