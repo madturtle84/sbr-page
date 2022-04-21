@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sbr-page/static/css/main.bd0c2042.css",
-    "main.js": "/sbr-page/static/js/main.f0f141c5.js",
-    "static/js/787.288014ff.chunk.js": "/sbr-page/static/js/787.288014ff.chunk.js",
-    "static/media/TaipeiSansTCBeta-Regular.ttf": "/sbr-page/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
-    "static/media/poster.png": "/sbr-page/static/media/poster.6f2e78da1850595dbbd0.png",
-    "static/media/carousel_3.png": "/sbr-page/static/media/carousel_3.9b9651c14eb67dbabc08.png",
-    "static/media/carousel_4.png": "/sbr-page/static/media/carousel_4.5413d5cc676f75e6c99b.png",
-    "static/media/panel_content.png": "/sbr-page/static/media/panel_content.eaecf068cea93d8c2151.png",
-    "static/media/carousel_1.png": "/sbr-page/static/media/carousel_1.0c610ac7ae0227aaa8ec.png",
-    "static/media/carousel_2.png": "/sbr-page/static/media/carousel_2.7afdcf879ee0ca19f603.png",
-    "index.html": "/sbr-page/index.html",
-    "main.bd0c2042.css.map": "/sbr-page/static/css/main.bd0c2042.css.map",
-    "main.f0f141c5.js.map": "/sbr-page/static/js/main.f0f141c5.js.map",
-    "787.288014ff.chunk.js.map": "/sbr-page/static/js/787.288014ff.chunk.js.map"
+    "main.css": "/static/css/main.4533bcdc.css",
+    "main.js": "/static/js/main.78b2101e.js",
+    "static/js/787.288014ff.chunk.js": "/static/js/787.288014ff.chunk.js",
+    "static/media/TaipeiSansTCBeta-Regular.ttf": "/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
+    "static/media/poster.png": "/static/media/poster.6f2e78da1850595dbbd0.png",
+    "static/media/carousel_3.png": "/static/media/carousel_3.9b9651c14eb67dbabc08.png",
+    "static/media/carousel_4.png": "/static/media/carousel_4.5413d5cc676f75e6c99b.png",
+    "static/media/panel_content.png": "/static/media/panel_content.eaecf068cea93d8c2151.png",
+    "static/media/carousel_1.png": "/static/media/carousel_1.0c610ac7ae0227aaa8ec.png",
+    "static/media/carousel_2.png": "/static/media/carousel_2.7afdcf879ee0ca19f603.png",
+    "index.html": "/index.html",
+    "main.4533bcdc.css.map": "/static/css/main.4533bcdc.css.map",
+    "main.78b2101e.js.map": "/static/js/main.78b2101e.js.map",
+    "787.288014ff.chunk.js.map": "/static/js/787.288014ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd0c2042.css",
-    "static/js/main.f0f141c5.js"
+    "static/css/main.4533bcdc.css",
+    "static/js/main.78b2101e.js"
   ]
 }
