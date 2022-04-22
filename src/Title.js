@@ -7,25 +7,37 @@ type Props = {
   text: string,
 };
 export default function Title(props: Props): React.Node {
-  const style = {
+  const divStyle = {
     position: 'relative',
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundImage: `url(${titleBackground})`,
-    //backgroundSize: 'cover',
-    backgroundSize: 'contain',
-    backgroundRepeat: 'no-repeat',
     width: 200,
+    //border: 'solid red',
+  };
+  const imgContainerStyle = {
+    flex: 1,
+    display: 'flex',
+    //border: 'solid yellow',
+  };
+  const imgStyle = {
+    display: 'flex',
+    width: '100%',
+    objectFit: 'fill',
+    //border: 'solid cyan',
   };
   const textDivStyle = {
+    position: 'absolute',
     color: 'white',
     fontSize: 30,
-    border: 'solid red',
+    //border: 'solid red',
     fontFamily: 'MyFont',
   };
   return (
-    <div style={style}>
+    <div style={divStyle}>
+      <div style={imgContainerStyle}>
+        <img style={imgStyle}  src={titleBackground} alt='titleBackground' />
+      </div>
       <div style={textDivStyle}>{props.text}</div>
     </div>
   );

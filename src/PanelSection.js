@@ -5,7 +5,7 @@ import panelContentImage from './images/panel_content.png';
 
 export default function PanelSection(): React.Node {
   const containerStyle = {
-    border: 'solid green',
+    //border: 'solid green',
     background: '#455548',
     display: 'flex',
     paddingTop: 20,
@@ -14,13 +14,13 @@ export default function PanelSection(): React.Node {
     paddingRight: 20,
   };
   const leftDivStyle = {
-    border: 'solid white',
+    //border: 'solid white',
     flex: 1,
     display: 'flex',
     marginRight: 20,
   };
   const rightDivStyle = {
-    border: 'solid red',
+    //border: 'solid red',
     flex: 1.5,
     display: 'flex',
     flexDirection: 'column',

@@ -15,6 +15,7 @@ export default function MediaSection(): React.Node {
   return (
     <div style={containerStyle}>
       <Title text='Media'/>
+      <div style={{height: 8}} />
       <Carousel>
         <div>
             <img src={carrousel_1} alt='carousel_1' />
