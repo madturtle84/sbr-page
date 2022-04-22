@@ -45,15 +45,10 @@ export default function PanelSection(): React.Node {
         </div>
       </div>
       <div style={rightDivStyle}>
-        <span style={titleStyle}>The Story Begins</span>
+        <span style={titleStyle}>Pushing VR to its Limit</span>
         <TextDescription
           texts={[
-            '1, jeoifjewofjewjiof',
-            '2, jeoifjewofjewjiof',
-            '3, jeoifjewofjewjiof',
-            '4, jeoifjewofjewjiof',
-            '5, jeoifjewofjewjiof',
-            '6, jeoifjewofjewjiof',
+            'We\'re pushing VR locomotion to its limit. By using your own body to trigger movement, player become more immersive and less prone to VR sickness. You can now comfortably strafe to dodge incoming fire, or deflect bullets with your left hand while charging to a robot army.'
           ]}
         />
       </div>
